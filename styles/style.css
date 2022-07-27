@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F2E3D5;
+  font-family: "Manrope", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+h1 {
+  color: #3CA6A6;
+}
+
+/*# sourceMappingURL=style.css.map */
