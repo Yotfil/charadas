@@ -1,10 +1,25 @@
 const Header = () => {
   return `
-    <header>
-      <div>
-        <h1>Hello world from header</h1>
-      </div>
-    </header>
+  <header>
+    <h1 class="header_logo">Charadas</h1>
+    <div class="header_navigation">
+      <nav>
+        <ul>
+          <li><a href="#">Jugar</a></li>
+          <li><a href="#">Sorteo</a></li>
+          <li><a href="#">Tutorial</a></li>
+        </ul>
+      </nav>
+    </div>
+    <div class="footer_navigation">
+      <nav>
+        <ul>
+          <li><a href="#">Ajustes</a></li>
+          <li><a href="#">Ayuda</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
   `
 }
 
